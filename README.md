@@ -5,3 +5,4 @@ Repositório de Arquivos e Matreiais de Aula da Disicplina Análise de dados com
 - Na pasta **Scripts** estão os arquivos no formato RScript, para serem usados no RStudio
 - Na pasta **Apresentacoes** estão os pdf´s de cada aula
 - Na pasta **Adicionais** estão arquivos adicionais como apostilas e outros materias da internet
+- Na pasta **Slides_HTML** estão disponíveis os slides de aual no formato HTML
